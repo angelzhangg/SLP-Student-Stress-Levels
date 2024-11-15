@@ -3,7 +3,8 @@ Impact of Holistic Wellness Strategies and Techniques on Perceived Stress and Me
 
 ## Research Question:
 -Does the Holistic Wellness Initiative positively impact perceived stress of graduate Speech-Language Pathology students?
--What are the coping strategies of Graduate students and how do they feel before starting the "Be Well" initiave?"
+
+-What are the coping strategies of Graduate students and how do they feel before starting the "Be Well" initiave?
 
 ## Research Objectives:
 - Purpose of this pretest/posttest study is to evaluate the impact of holistic wellness techniques—such as time management, coping strategies, and communication mindfulness
