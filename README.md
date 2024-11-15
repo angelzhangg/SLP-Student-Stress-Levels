@@ -1,5 +1,5 @@
 # SLP-Student-Stress-Levels
-Impact of Holistic Wellness Strategies and Techniques on Perceived Stress and Mental Well-Being of Graduate Speech-Language Pathology Students 
+Impact of Holistic Wellness Strategies and Techniques on Perceived Stress and Mental Well-Being of Graduate Speech-Language Pathology Students-will change the IRB to include coping strategies and not so much of the well being
 
 ## Research Question:
 -Does the Holistic Wellness Initiative 'Be Well" positively impact perceived stress of graduate Speech-Language Pathology students?
