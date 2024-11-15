@@ -2,7 +2,7 @@
 Impact of Holistic Wellness Strategies and Techniques on Perceived Stress and Mental Well-Being of Graduate Speech-Language Pathology Students 
 
 ## Research Question:
--Does the Holistic Wellness Initiative positively impact perceived stress of graduate Speech-Language Pathology students?
+-Does the Holistic Wellness Initiative 'Be Well" positively impact perceived stress of graduate Speech-Language Pathology students?
 
 -What are the coping strategies of Graduate students and how do they feel before starting the "Be Well" initiave?
 
