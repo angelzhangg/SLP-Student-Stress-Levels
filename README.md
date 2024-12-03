@@ -8,7 +8,7 @@ Impact of Holistic Wellness Strategies and Techniques on Perceived Stress and Co
 
 ## Research Objectives:
 - Purpose of this pretest/posttest study is to evaluate the impact of holistic wellness techniques
-- Initiatives such as caps, weekly emails, wellness tips, make your own bracelets, self care day, aroma spray, masks, envision board and pet therapy and seminars on graduate speech-language pathology students.
+- Initiatives such as caps, weekly emails, wellness tips, make your own bracelets, self care day, aroma spray, masks, envision board and pet therapy and seminars and their effects on graduate speech-language pathology students.
 
 ## Variables
 - **Impact is operationally defined as an improvement or decrease in self-reported outcomes of students’ perceived stress and mental state**
