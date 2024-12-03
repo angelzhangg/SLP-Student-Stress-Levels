@@ -1,5 +1,5 @@
 # SLP-Student-Stress-Levels
-Impact of Holistic Wellness Strategies and Techniques on Perceived Stress and Mental Well-Being of Graduate Speech-Language Pathology Students-will change the IRB to include coping strategies and not so much of the well being
+Impact of Holistic Wellness Strategies and Techniques on Perceived Stress and Coping Strategies of Graduate Speech-Language Pathology Students
 
 ## Research Question:
 -Does the Holistic Wellness Initiative 'Be Well" positively impact perceived stress of graduate Speech-Language Pathology students?
@@ -7,11 +7,11 @@ Impact of Holistic Wellness Strategies and Techniques on Perceived Stress and Me
 -What are the coping strategies of Graduate students and how do they feel before starting the "Be Well" initiave?
 
 ## Research Objectives:
-- Purpose of this pretest/posttest study is to evaluate the impact of holistic wellness techniques—such as time management, coping strategies, and communication mindfulness
-seminars on graduate speech-language pathology students.
+- Purpose of this pretest/posttest study is to evaluate the impact of holistic wellness techniques
+- Initiatives such as caps, weekly emails, wellness tips, make your own bracelets, self care day, aroma spray, masks, envision board and pet therapy and seminars on graduate speech-language pathology students.
 
 ## Variables
-- **Impact is operationally defined as an improvement or decrease in self-reported outcomes of students’ perceived stress and mental well-being**
+- **Impact is operationally defined as an improvement or decrease in self-reported outcomes of students’ perceived stress and mental state**
 - Independent variable:
   - impact of holistic wellness initiatives/techniques/seminars
   - 32 students in cohort 1 vs 26 students in cohort 2= 60 students participated but only 30 filled out the form
