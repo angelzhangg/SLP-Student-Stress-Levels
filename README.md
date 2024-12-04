@@ -1,4 +1,4 @@
-# Survey_analysis_project
+# Pre-Survey Analysis
 
 The purpose of this repo is to document the analysis process of survey data from a research study. The python file is located in the jupyter notebook included in this repo called: SLP_Pre_Survey.ipynb.
 
