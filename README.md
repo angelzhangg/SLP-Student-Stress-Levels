@@ -1,13 +1,16 @@
-# SLP-Student-Stress-Levels
-Impact of Holistic Wellness Strategies and Techniques on Perceived Stress and Coping Strategies of Graduate Speech-Language Pathology Students
+# Survey_analysis_project
+
+The purpose of this repo is to document the analysis process of survey data from a research study. The python file is located in the jupyter notebook inluded in this repo called: SLP_Pre_Survey.ipynb.
+
+
 
 ## Research Question:
--Does the Holistic Wellness Initiative 'Be Well" positively impact perceived stress of graduate Speech-Language Pathology students?
+- Does the Holistic Wellness Initiative 'Be Well" positively impact perceived stress of graduate Speech-Language Pathology students?
 
--What are the coping strategies of Graduate students and how do they feel before starting the "Be Well" initiave?
+- What are the coping strategies of Graduate students and how do they feel before starting the "Be Well" initiave?
 
 ## Research Objectives:
-- Purpose of this pretest/posttest study is to evaluate the impact of holistic wellness techniques
+- Purpose of this pretest/posttest study is to evaluate the impact of holistic wellness techniques on Perceived Stress and Coping Strategies of Graduate Speech-Language Pathology Students
 - Initiatives such as caps, weekly emails, wellness tips, make your own bracelets, self care day, aroma spray, masks, envision board and pet therapy and seminars and their effects on graduate speech-language pathology students.
 
 ## Variables
